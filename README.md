@@ -43,19 +43,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PLJanicki&show_icons=true&theme=dracula" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PLJanicki&layout=compact&theme=dracula" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PLJanicki&theme=dracula" alt="GitHub Streak" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=PLJanicki&label=Profile%20views&color=8be9fd&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=pljanicki&label=Profile%20views&color=8be9fd&style=flat" alt="Profile views" />
 </p>
