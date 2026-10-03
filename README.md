@@ -10,17 +10,14 @@
 
 ---
 
-### 🔭 Currently working on
+### 🔭 Currently working on & exploring
 
-- Researching and applying **GitHub Agentic Workflows** & AI-driven automation to improve workflow and delivery in megacorp environment
-- Working on a new **IaC** - **Intelligence as Code**
-- **Cloud Infrastructure** on **Azure** with **Terraform**
-- **Python FastAPI**
-- **Kubernetes** orchestration
-- **GitOps** with **Argo CD**
-- **CI/CD** pipelines with **GitHub Actions**
-- **Security** with **Snyk**, **Trivy**, **Checkov**
-- **Monitoring & Observability** with **Grafana** and **Prometheus**
+- 🤖 **Agentic & AI-Driven Workflows:** Designing autonomous automation pipelines with **GitHub Actions** & AI agents.
+- ☁️ **Cloud Architecture & IaC:** Provisioning declarative, scalable infrastructure on **Azure** using **Terraform**.
+- ☸️ **Cloud-Native & GitOps:** Production-grade **Kubernetes** workload orchestration, container runtimes (OCI/Docker), and declarative delivery with **Argo CD**.
+- 🛡️ **DevSecOps & Supply Chain Security:** Implementing shift-left vulnerability scanning and policy-as-code using **Trivy**, **Snyk**, and **Checkov**.
+- 📊 **Observability & Reliability:** Full-stack metrics and telemetry pipelines leveraging **Prometheus** and **Grafana**.
+- ⚙️ **Data & Workflow Orchestration:** Event-driven orchestration with **Kestra**, backend services in **Python**, and persistent state management with **MongoDB**.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Primary%20Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Primary Language" />
