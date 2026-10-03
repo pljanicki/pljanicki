@@ -40,6 +40,18 @@
 
 ---
 
+### 📈 Activity Graph
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pljanicki/pljanicki/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pljanicki/pljanicki/output/github-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/pljanicki/pljanicki/output/github-snake.svg" />
+  </picture>
+</p>
+
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pljanicki&label=Profile%20views&color=8be9fd&style=flat" alt="Profile views" />
 </p>
